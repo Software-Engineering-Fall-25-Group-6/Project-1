@@ -2,9 +2,6 @@ body {
   margin: 0;
   font-family:Tahoma, sans-serif;
   background-color: #fff;
-}
-
-.container {
   display: flex;
   flex-wrap: column;
   align-items: center;
