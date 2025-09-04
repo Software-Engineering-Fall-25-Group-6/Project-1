@@ -12,13 +12,7 @@ body{
     justify-content: center; 
     align-items: center;  
 } 
-.container{
-    display: flex;  
-    flex-direction: row;
-    flex-wrap: wrap; 
-    align-items: center; 
-    justify-content: center; 
-} 
+
 @keyframes rainbow {
     0%   { background-color: red; }
     16%  { background-color: orange; }
