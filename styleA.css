@@ -6,7 +6,13 @@ body {
 
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   align-items: center;
+  flex-grow: 1;
+  height: 100%;
+}
+html{
+  height: 100%;
 }
 
 .boxes {
@@ -18,7 +24,7 @@ body {
   background-color: #dfe1e7;
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin: 5px;
 }
 
 /* Alternate color for box 2 and 4 */
